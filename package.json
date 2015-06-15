@@ -1,0 +1,29 @@
+{
+  "name": "fis-postpackager-replace",
+  "description": "用于合并后字符串替换需求，例如某些场景下绝对路径向相对路径替换",
+  "main": "index.js",
+  "version": "0.0.2",
+  "dependencies": {},
+  "scripts": {
+    "test": "uz -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gavinning/fis-postpackager-replace.git"
+  },
+  "keywords": [
+    "fis-postpackager-replace",
+    "uz",
+    "uz postpackager",
+    "uz postpackager replace",
+    "fis",
+    "fis postpackager",
+    "fis postpackager replace"
+  ],
+  "author": "gavinning",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/gavinning/fis-postpackager-replace/issues"
+  },
+  "homepage": "https://github.com/gavinning/fis-postpackager-replace"
+}
